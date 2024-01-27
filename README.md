@@ -10,6 +10,8 @@ Welcome to the Responsive Tribute Page Template! This template provides a simple
 
 The template is built with a mobile-first approach, ensuring that the content adapts seamlessly to different screen sizes. Whether your audience is viewing the tribute page on a large desktop monitor or a small smartphone screen, the layout remains visually appealing and user-friendly.
 
+![Preview](https://raw.githubusercontent.com/Amaral-tec/resources/main/tribute-page/tribute-page-2.png)
+
 ### 2. Flexibility and Customization
 
 Easily customize the tribute page to suit your needs. The template provides clear sections for essential information, including a biography, achievements, and memorable quotes. Add images and personalize the content to create a unique and heartfelt tribute.
